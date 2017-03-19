@@ -1,0 +1,91 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">Sofia Tour</string>
+
+    <!-- Category name for the parks in Sofia -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for the pastry shops in Sofia -->
+    <string name="category_pastryShops">Pastries</string>
+
+    <!-- Category name for the landmarks in Sofia -->
+    <string name="category_landmarks">Sights</string>
+
+    <!-- Category name for the theaters in Sofia -->
+    <string name="category_theaters">Theaters</string>
+
+    <!-- Name of South park -->
+    <string name="parks_south">South park</string>
+
+    <!-- Name of West park -->
+    <string name="parks_west">West park</string>
+
+    <!-- Name of North park -->
+    <string name="parks_north">North park</string>
+
+    <!-- Name of Borisova gradina -->
+    <string name="parks_borisova">Borisova gradina</string>
+
+    <!-- Name of The Bells park -->
+    <string name="parks_bells">The Bells (Kambanite)</string>
+
+    <!-- Name of Doctors' garden -->
+    <string name="parks_doctors">Doctors\' garden</string>
+
+    <!-- Name of Take a Cake bakery -->
+    <string name="pastry_takeacake">Take a Cake</string>
+
+    <!-- Name of Pchela pastry shop -->
+    <string name="pastry_pchela">Sladkarnitza Pchela</string>
+
+    <!-- Name of 100 grams of sweets pastry shop -->
+    <string name="pastry_100grams">100 grama sladki</string>
+
+    <!-- Name of Nedelya pastry shop -->
+    <string name="pastry_nedelya">Sladkarnitza Nedelya</string>
+
+    <!-- Name of Vanilla Kitchen -->
+    <string name="pastry_vanilla">Vanilla Kitchen</string>
+
+    <!-- Name of Romance pastry shop -->
+    <string name="pastry_ritzka">Sladkarnitza Ritzka</string>
+
+    <!-- Name of Alexander Nevski temple -->
+    <string name="landmarks_alexanderNevski">Alexander Nevski</string>
+
+    <!-- Name of National Palace of Culture -->
+    <string name="landmarks_nationalPalace">National Palace of Culture</string>
+
+    <!-- Name of Sofia University -->
+    <string name="landmarks_university">Sofia University \"St. Kliment Ohridski\"</string>
+
+    <!-- Name of Saint Sofia Monument -->
+    <string name="landmarks_stSofia">Saint Sofia Monument</string>
+
+    <!-- Name of Monument of the Unknown Soldier -->
+    <string name="landmarks_unknownSoldier">Monument of the Unknown Soldier</string>
+
+    <!-- Name of Sofijska mineralna banya -->
+    <string name="landmarks_banya">Sofijska mineralna banya</string>
+
+    <!-- Name of Naroden Theater -->
+    <string name="theaters_naroden">Naroden Theater \"Ivan Vazov\"</string>
+
+    <!-- Name of Satirical Theater -->
+    <string name="theaters_satirical">Stairical Theater \"Aleko Konstantinov\"</string>
+
+    <!-- Name of Theater of Bulgarian Army -->
+    <string name="theaters_army">Theater of Bulgarian Army</string>
+
+    <!-- Name of Sofia Puppet Theater -->
+    <string name="theaters_puppet">Sofia Puppet Theater</string>
+
+    <!-- Name of Theatre Tear and Laugh -->
+    <string name="theaters_tearandlaugh">Theater Tear and Laugh</string>
+
+    <!-- Name of Theatre 199 -->
+    <string name="theaters_199">Theater 199</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
